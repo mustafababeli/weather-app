@@ -1,0 +1,14 @@
+.main-page {
+  display: flex;
+  justify-content: center;
+}
+.location-form {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+#location-input {
+  border-radius: 5px;
+  border-style: solid;
+}
